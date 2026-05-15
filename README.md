@@ -8,7 +8,7 @@ This program demonstrates:
 - memory addresses of variables
 - memory alignment and spacing between variables
 
-### Output of `memory_address.c`
+### Output of `memory_address.c`:
 
 ```c
 Address of i2  = 0x7ffff485301b
