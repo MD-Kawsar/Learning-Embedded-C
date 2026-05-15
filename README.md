@@ -1,7 +1,7 @@
 # Learning-Embedded-C
 
 <p>1. memory_address.c demostrates the size of each data-type and <br> the <b>Address</b> of data stored in memory of each data-type.</p><br>
-Output of memory_address.c<br>
+Output of memory_address.c = <br><br>
 Address of i2 = 0x7ffff485301b.<br>
 Address of i22 = 0x7ffff485301c.<br>
 Address of i3 = 0x7ffff4853020.<br>
